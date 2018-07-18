@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New website"
+title:  "New Website"
 author: "Josef Brandl"
 date:   2018-07-18 16:20:20 +0200
 categories: blog

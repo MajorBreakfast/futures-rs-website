@@ -1,6 +1,10 @@
 #home-futures-logo-box {
   background: #3F5371;
-  padding: 30px;
+  padding: 30px 15px 50px;
+
+  .slogan {
+    margin-top: 20px;
+  }
 }
 
 .page-home {
@@ -24,6 +28,11 @@
         a {
           color: inherit;
           text-decoration: none;
+          outline: none;
+        }
+
+        a:hover, a:focus {
+          border-bottom: 2px solid $primary_color;
         }
       }
     }
